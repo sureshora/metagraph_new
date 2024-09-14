@@ -1,0 +1,4 @@
+[submodule "sdk-developer-dashboard"]
+    path = sdk-developer-dashboard
+    url = https://github.com/sureshora/hackathon1metagraph.git
+

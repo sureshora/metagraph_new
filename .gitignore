@@ -1,0 +1,4 @@
+infra/docker/grafana/grafana/storage/grafana.db
+infra/docker/grafana/grafana/storage/csv/
+infra/docker/grafana/grafana/storage/pdf/
+infra/docker/grafana/grafana/storage/png/
